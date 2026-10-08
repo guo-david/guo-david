@@ -2,7 +2,7 @@
 
 I’m a MASc student in the [Data-Driven Decision Making (D3M) Lab](https://d3m.mie.utoronto.ca/) at the University of Toronto, supervised by [Prof. Scott Sanner](https://ssanner.github.io/), working on machine learning for interactive AI systems.
 
-My work spans **conversational recommendation**, **user modeling**, and **memory for AI assistants**, combining empirical studies of interaction with building and evaluating systems.
+My work spans **conversational recommendation**, **user modeling**, and **memory for Agentic systems**, combining empirical studies of interaction with building and evaluating systems.
 
 ### Publications & Preprints
 
