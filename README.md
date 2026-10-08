@@ -1,10 +1,8 @@
 # David Guo
 
-MASc student at the University of Toronto, supervised by [Scott Sanner](https://ssanner.github.io/).
+I’m a MASc student in the [Data-Driven Decision Making (D3M) Lab](https://d3m.mie.utoronto.ca/) at the University of Toronto, supervised by [Prof. Scott Sanner](https://ssanner.github.io/), working on machine learning for interactive AI systems.
 
-**Research:** conversational recommendation · user modeling · memory for AI assistants · human–AI interaction
-
-I study how assistants use conversation and context to understand users and support decisions. I also build AR/XR research tools around persistent world state, perception, and interaction.
+My work spans **conversational recommendation**, **user modeling**, and **memory for AI assistants**, combining empirical studies of interaction with building and evaluating systems.
 
 ### Publications & Preprints
 
